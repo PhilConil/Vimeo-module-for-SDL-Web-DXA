@@ -1,4 +1,5 @@
 using Sdl.Web.Common.Models;
+using Sdl.Web.Modules.Vimeo.Models;
 using Sdl.Web.Mvc.Configuration;
 
 namespace Sdl.Web.Modules.Vimeo
